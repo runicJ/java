@@ -1,0 +1,12 @@
+package t01;
+// return 값이 없을 때 void
+// class 블록 {}
+public class Test4 {
+	// 메소드 블록
+	public static void main(String[] args) {
+		System.out.println("1.반갑습니다.");
+		System.out.print("2.반갑습니다.\n");
+		System.out.println("3.반갑습니다.");
+		System.out.println("4.반갑습니다.");
+	}
+}
